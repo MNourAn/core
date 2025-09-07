@@ -1,0 +1,9 @@
+{
+  "domain": "hello_state",
+  "name": "Hello, state!",
+  "codeowners": ["@MNourAn"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/hello_state",
+  "iot_class": "calculated",
+  "quality_scale": "bronze"
+}
